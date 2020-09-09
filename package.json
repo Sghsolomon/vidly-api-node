@@ -24,6 +24,7 @@
     "lodash": "^4.17.20",
     "moment": "^2.20.1",
     "mongoose": "^5.10.2",
+    "remove-node-modules": "^1.7.6",
     "winston": "^2.4.0",
     "winston-mongodb": "^3.0.0"
   },
