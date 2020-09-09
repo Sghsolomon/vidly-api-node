@@ -1,4 +1,6 @@
 {
   "jwtPrivateKey": "vidly_jwtPrivateKey",
-  "db": "vidly_db"
+  "db": "vidly"
 }
+
+mongodb+srv://solomon:Sgh19820501@cluster0.1joff.azure.mongodb.net/vidly?retryWrites=true&w=majority
